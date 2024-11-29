@@ -1,8 +1,13 @@
 {
-    "ConfigurationTab": "🏠 Guia principal",
-    "exampleButton": "🌟 Botão de exemplo",
-    "exampleLabel": "🧪 Exemplo de rótulo",
+    "Script com Tradução - Rhyan57": "Script com Tradução - Rhyan57 🇧🇷",
     "settingsTab": "⚙️ Configurações",
-    "languageDropdown": " 🌎 Selecione o idioma",
-    "Traducion": " 😥 Configurar a linguagem do script - Rhyan57"
+    "languageDropdown": "🌐 Selecionar Idioma",
+    "exampleButton": "🔘 Botão de Exemplo",
+    "exampleLabel": "📌 Exemplo de Rótulo",
+    "Traducion": "📝 Configure o idioma do script - Rhyan57",
+    "Idioma Carregado": "✅ Idioma Carregado",
+    "Tradução para aplicado com sucesso!": "Tradução para %s aplicada com sucesso! 🚀",
+    "Erro": "❌ Erro",
+    "Idioma não suportado": "Idioma não suportado: %s 😕",
+    "Falha ao carregar o idioma": "Falha ao carregar o idioma: %s 😔"
 }
