@@ -1,8 +1,8 @@
 {
-    "mainTabTitle": "🙏 Aba Principal",
-    "exampleButton": "😥 Botão Exemplo",
-    "exampleLabel": "Exemplo de Rótulo",
-    "settingsTab": "Configurações",
-    "languageDropdown": "Selecione o Idioma",
-    "Traducion": "Configure o idioma do script - Rhyan57"
+    "ConfigurationTab": "MainTab",
+    "exampleButton": "Example Button",
+    "exampleLabel": "Label Example",
+    "settingsTab": "Settings",
+    "languageDropdown": "Select Language",
+    "Traducion": "Configure the script language - Rhyan57"
 }
