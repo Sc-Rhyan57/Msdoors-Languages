@@ -1,1 +1,7 @@
-
+{
+    "mainTabTitle": "aba principal",
+    "exampleButton": "botão exemplo",
+    "exampleLabel": "Exemplo de rótulo",
+    "settingsTab": "Configurações",
+    "languageDropdown": "Selecione o idioma"
+}
