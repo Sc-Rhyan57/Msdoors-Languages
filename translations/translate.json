@@ -1,5 +1,4 @@
-
 {
-    "Button1": {"pt-br": "Botão 1", "en": "English or Spanish?", "es": "Botón 1"},
+    "Button-save": {"pt-br": "Salvar", "en": "Save", "es": "Guardar"},
     "Toggle1": {"pt-br": "Alternar 1", "en": "Toggle 1", "es": "Alternar 1"}
 }
